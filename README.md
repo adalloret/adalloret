@@ -12,7 +12,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adalloret&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <br/> ![](https://github-readme-stats.vercel.app/api?username=adalloret&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
