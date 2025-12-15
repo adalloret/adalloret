@@ -1,4 +1,3 @@
-<div align="center">
 <h2> Hi, I'm Ada! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h2>
   
 ### Data Analyst curious by nature  | Lover of pretty charts and messy datasets | Always looking for stories behind numbers 
